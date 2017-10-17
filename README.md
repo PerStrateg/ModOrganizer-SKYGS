@@ -1,6 +1,6 @@
 # Настройка ModOrganizer SKYGS
 Исходный код программы для настройки программы ModOrganizer для сборки SKYGS.  
-<p align="center">![N|Solid](http://i89.fastpic.ru/big/2017/1017/ba/a3d9dd6d9d689749e2cd7e39fce279ba.png)</p>
+<p align="center">[IMG]http://i89.fastpic.ru/big/2017/1017/ba/a3d9dd6d9d689749e2cd7e39fce279ba.png)[/IMG]</p>
 
 Программа меняет настройки ModOrganizer.ini. В итоге, если вы установили/скопировали/перенесли Скайрим в любую папку, вы можете легко настроить пути к необходимым программам.
 
@@ -47,4 +47,4 @@ ini.WriteValue("2\\directory", "recentDirectories", skyPath);
 ```
 
 Интерфейс программы:  
-<p align="center">![N|Solid](http://i89.fastpic.ru/big/2017/1017/1e/35bd5e5afa4c28a1c06c90626404471e.png)</p>
+<p align="center">[IMG]http://i89.fastpic.ru/big/2017/1017/1e/35bd5e5afa4c28a1c06c90626404471e.png[/IMG]</p>
