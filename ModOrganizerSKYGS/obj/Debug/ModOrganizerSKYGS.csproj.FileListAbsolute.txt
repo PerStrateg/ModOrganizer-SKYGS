@@ -1,0 +1,15 @@
+C:\Users\snuux\Documents\Visual Studio 2017\Projects\ModOrganizerSKYGS\ModOrganizerSKYGS\obj\Debug\ModOrganizerSKYGS.csprojResolveAssemblyReference.cache
+C:\Users\snuux\Documents\Visual Studio 2017\Projects\ModOrganizerSKYGS\ModOrganizerSKYGS\obj\Debug\ModOrganizerSKYGS.Form1.resources
+C:\Users\snuux\Documents\Visual Studio 2017\Projects\ModOrganizerSKYGS\ModOrganizerSKYGS\obj\Debug\ModOrganizerSKYGS.Properties.Resources.resources
+C:\Users\snuux\Documents\Visual Studio 2017\Projects\ModOrganizerSKYGS\ModOrganizerSKYGS\obj\Debug\ModOrganizerSKYGS.csproj.GenerateResource.Cache
+C:\Users\snuux\Documents\Visual Studio 2017\Projects\ModOrganizerSKYGS\ModOrganizerSKYGS\obj\Debug\ModOrganizerSKYGS.csproj.CoreCompileInputs.cache
+C:\Users\snuux\Documents\Visual Studio 2017\Projects\ModOrganizerSKYGS\ModOrganizerSKYGS\bin\Debug\ModOrganizer SKYGS.exe.config
+C:\Users\snuux\Documents\Visual Studio 2017\Projects\ModOrganizerSKYGS\ModOrganizerSKYGS\bin\Debug\ModOrganizer SKYGS.exe
+C:\Users\snuux\Documents\Visual Studio 2017\Projects\ModOrganizerSKYGS\ModOrganizerSKYGS\bin\Debug\ModOrganizer SKYGS.pdb
+C:\Users\snuux\Documents\Visual Studio 2017\Projects\ModOrganizerSKYGS\ModOrganizerSKYGS\obj\Debug\ModOrganizer SKYGS.g.resources
+C:\Users\snuux\Documents\Visual Studio 2017\Projects\ModOrganizerSKYGS\ModOrganizerSKYGS\obj\Debug\ModOrganizer SKYGS.exe
+C:\Users\snuux\Documents\Visual Studio 2017\Projects\ModOrganizerSKYGS\ModOrganizerSKYGS\obj\Debug\ModOrganizer SKYGS.pdb
+C:\Users\snuux\Documents\Visual Studio 2017\Projects\ModOrganizerSKYGS\ModOrganizerSKYGS\bin\Debug\ModOrganizer SKYGS.exe.manifest
+C:\Users\snuux\Documents\Visual Studio 2017\Projects\ModOrganizerSKYGS\ModOrganizerSKYGS\bin\Debug\ModOrganizer SKYGS.application
+C:\Users\snuux\Documents\Visual Studio 2017\Projects\ModOrganizerSKYGS\ModOrganizerSKYGS\obj\Debug\ModOrganizer SKYGS.exe.manifest
+C:\Users\snuux\Documents\Visual Studio 2017\Projects\ModOrganizerSKYGS\ModOrganizerSKYGS\obj\Debug\ModOrganizer SKYGS.application
